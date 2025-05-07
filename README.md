@@ -15,4 +15,6 @@ Option to trigger alert manually (or integrate automatic detection via sensors i
 Can be used by anyone, especially useful for solo travelers, delivery personnel, and drivers
 
 link for project:https://drive.google.com/file/d/1__8lfKMZ-rmGp-aytSz7BgcrYaMXF5OL/view?usp=sharing
+
+
 project link: http://127.0.0.1:5000/
